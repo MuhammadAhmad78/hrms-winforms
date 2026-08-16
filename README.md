@@ -77,8 +77,8 @@ It also defines stored procedures (`EmployeeSp`, `DepartmentSp`, `DesignationSp`
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/MuhammadAhmad78/hrms-Winforms.git
+cd hrms-winforms
 ```
 
 ### 2. Set up the database
